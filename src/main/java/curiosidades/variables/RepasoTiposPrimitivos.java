@@ -45,6 +45,10 @@ public class RepasoTiposPrimitivos {
 		double miDouble = 1.7976931348623157E308;
 		System.out.println(miDouble);
 		
+//		char
+		char miChar = 198;// se puede asignar un char por medio de la tabla ASSCII
+							// tabla uniode o diractamente por el simbolo
+		System.out.println(miChar);
 		
 		
 	}
