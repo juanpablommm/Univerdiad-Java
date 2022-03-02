@@ -1,4 +1,4 @@
-package argumentos_sobreescritura;
+package polimorfismo_a_nivel_sobreescritura;
 
 public class Gerente extends Empleado{
 

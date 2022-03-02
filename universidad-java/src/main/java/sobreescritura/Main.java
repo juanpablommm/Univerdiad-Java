@@ -1,4 +1,4 @@
-package argumentos_sobreescritura;
+package sobreescritura;
 
 public class Main {
 
