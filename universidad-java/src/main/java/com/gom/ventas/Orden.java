@@ -39,7 +39,7 @@ public class Orden {
 				System.out.println("*" + producto.getNombre() + " $"+ producto.getPrecio());
 			}
 		}
-		System.out.println("Valor total: $" + new DecimalFormat("###.###").format(this.calcularTotal()));
+		System.out.println("Valor total: $" + new DecimalFormat("##.##").format(this.calcularTotal()));
 	}
 	
 }
