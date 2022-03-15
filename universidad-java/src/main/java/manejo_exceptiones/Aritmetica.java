@@ -3,6 +3,8 @@ package manejo_exceptiones;
 public class Aritmetica {
 
     public static void main(String[] args) {
+        
+        
         int i = 0;
         try {
             i = Aritmetica.division(10, 0);
