@@ -47,5 +47,7 @@ public class LinkedListss {
         //devuelve el peimer elemento en la cola y lo elimina
         
         System.out.println(linkedListQueue);
+        
+        
     }
 }
