@@ -16,6 +16,6 @@ y aprendiendo nuevas cosas...
 
 2. [Analizando un poco mas a fondo los modificadores de acceso](https://github.com/juanpablommm/Univerdiad-Java/tree/master/modificadores-acceso)
 
-3. [Revizando el JDBC bajo el patron de diseño DAO](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-JDBC)
+3. [Revizando el JDBC bajo el patron de diseño DAO, mas api-reflection, bajo acoplamiento y alta cohesion...](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-JDBC)
 
 4. [Sobre transaciones de JDC](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-transaciones-JDBC)
