@@ -19,3 +19,8 @@ y aprendiendo nuevas cosas...
 3. [Revizando el JDBC bajo el patron de diseño DAO, mas api-reflection, bajo acoplamiento y alta cohesion...](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-JDBC)
 
 4. [Sobre transaciones de JDC](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-transaciones-JDBC)
+
+5. [Analizando el concepto de pool de conexiones con JDBC para obtner una app mas estable y que consuma menos recursos](https://github.com/juanpablommm/Univerdiad-Java/tree/master/pool-de-conexiones)
+
+6. [Repanzando EE con jsp y los servlets](https://github.com/juanpablommm/Univerdiad-Java/tree/master/curso-servlets-jsp)
+
