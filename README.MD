@@ -24,4 +24,6 @@ y aprendiendo nuevas cosas...
 
 6. [Repanzando EE con jsp y los servlets](https://github.com/juanpablommm/Univerdiad-Java/tree/master/curso-servlets-jsp)
 * [Formulario de login and password simple con servlets](https://github.com/juanpablommm/Univerdiad-Java/tree/master/formulario-login-servlets)
+* [Creacion de formulario login simple con el manejo de servlet](https://github.com/juanpablommm/Univerdiad-Java/tree/master/formulario-login-servlets)
+* [Analiznaod los encabezados de los servlets todo lo referente a la meta-data de una petcion http](https://github.com/juanpablommm/Univerdiad-Java/tree/master/manejo-cabeseros-servlets)
 
